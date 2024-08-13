@@ -1,1 +1,3 @@
 # Sentiment-Detection-in-Movie-Reviews
+
+This project involves developing an algorithm to detect sentiment in movie reviews, categorizing them as either positive or negative. The dataset contains 2000 reviews split evenly between the two sentiments. Various NLP techniques are explored, including unigrams, n-grams, POS tagging, and focusing on open-class words, with each method offering unique advantages and challenges. The primary challenges include handling context, sarcasm, idiomatic expressions, and the potential for overfitting due to high-dimensional feature spaces. The project's goal is to evaluate these techniques and identify the most effective approach for accurate sentiment classification.
